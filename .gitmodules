@@ -1,0 +1,3 @@
+[submodule "Assets/Packages/Unity-ImageStatistics"]
+	path = Assets/Packages/Unity-ImageStatistics
+	url = https://github.com/nobnak/Unity-ImageStatistics.git
